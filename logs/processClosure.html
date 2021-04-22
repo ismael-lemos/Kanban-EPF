@@ -1,0 +1,27 @@
+<table>
+<tr><td><b>Element</b></td><td><b>Referenced By</b></td></tr>
+<tr><td>CapabilityPattern:Gestão</td><td></td></tr>
+<tr><td>Task:definir_tarefa</td><td>CapabilityPattern:Gestão/TaskDescriptor:definir_tarefa</td></tr>
+<tr><td>Role:desenvolvedor</td><td>CapabilityPattern:Gestão/RoleDescriptor:desenvolvedor</td></tr>
+<tr><td>Role:gerente</td><td>CapabilityPattern:Gestão/RoleDescriptor:gerente</td></tr>
+<tr><td>Artifact:cartao</td><td>CapabilityPattern:Gestão/WorkProductDescriptor:cartao</td></tr>
+<tr><td>Artifact:colunas</td><td>CapabilityPattern:Gestão/WorkProductDescriptor:colunas</td></tr>
+<tr><td>Artifact:quadro</td><td>CapabilityPattern:Gestão/WorkProductDescriptor:quadro</td></tr>
+<tr><td>Task:definir_metas</td><td>CapabilityPattern:Gestão/TaskDescriptor:definir_metas</td></tr>
+<tr><td>CapabilityPattern:Implementação</td><td></td></tr>
+<tr><td>Task:realizar_tarefa</td><td>CapabilityPattern:Implementação/TaskDescriptor:realizar_tarefa</td></tr>
+<tr><td>Task:resalizar_testes_unitrios</td><td>CapabilityPattern:Implementação/TaskDescriptor:resalizar_testes_unitrios</td></tr>
+<tr><td>Task:implantao</td><td>CapabilityPattern:Implementação/TaskDescriptor:implantao</td></tr>
+<tr><td>CapabilityPattern:Teste</td><td></td></tr>
+<tr><td>Task:definir_casos_de_teste</td><td>CapabilityPattern:Teste/TaskDescriptor:definir_casos_de_teste</td></tr>
+<tr><td>Role:tester</td><td>CapabilityPattern:Teste/RoleDescriptor:tester</td></tr>
+<tr><td>Task:realizar_teste</td><td>CapabilityPattern:Teste/TaskDescriptor:realizar_teste</td></tr>
+<tr><td>DeliveryProcess:Processo</td><td></td></tr>
+<tr><td>Iteration:Sprint</td><td>DeliveryProcess:Processo/Iteration:Sprint</td></tr>
+<tr><td>CapabilityPattern:Gestão</td><td>DeliveryProcess:Processo/Iteration:Sprint/CapabilityPattern:Gestão</td></tr>
+<tr><td>CapabilityPattern:Implementação</td><td>DeliveryProcess:Processo/Iteration:Sprint/CapabilityPattern:Implementação</td></tr>
+<tr><td>CapabilityPattern:Teste</td><td>DeliveryProcess:Processo/Iteration:Sprint/CapabilityPattern:Teste</td></tr>
+<tr><td>Discipline:gestao</td><td>Task:definir_tarefa</td></tr>
+<tr><td>Discipline:codificacao</td><td>Task:realizar_tarefa</td></tr>
+<tr><td>Discipline:teste</td><td>Task:resalizar_testes_unitrios</td></tr>
+</table>

@@ -1,0 +1,57 @@
+Info: : 1093 mini-second(s) publishing element CapabilityPattern:Gestão[kanban\capabilitypatterns\Gestão_98117C5B.html]
+Info: CapabilityPattern:Gestão: 1093 mini seconds publishing element
+Info: CapabilityPattern:Gestão: 159 mini seconds publishing process specific layout data
+Info: Task:definir_tarefa: 22 mini seconds publishing element
+Info: TaskDescriptor:definir_tarefa: 10 mini seconds publishing element
+Info: Role:desenvolvedor: 51 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 6 mini seconds publishing element
+Info: Role:gerente: 323 mini seconds publishing element
+Info: RoleDescriptor:gerente: 9 mini seconds publishing element
+Info: Artifact:cartao: 721 mini seconds publishing element
+Info: WorkProductDescriptor:cartao: 4 mini seconds publishing element
+Info: Artifact:colunas: 530 mini seconds publishing element
+Info: WorkProductDescriptor:colunas: 5 mini seconds publishing element
+Info: Artifact:quadro: 526 mini seconds publishing element
+Info: WorkProductDescriptor:quadro: 3 mini seconds publishing element
+Info: Task:definir_metas: 17 mini seconds publishing element
+Info: TaskDescriptor:definir_metas: 4 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 235 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 143 mini seconds publishing process specific layout data
+Info: Task:realizar_tarefa: 15 mini seconds publishing element
+Info: TaskDescriptor:realizar_tarefa: 6 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedor: 5 mini seconds publishing element
+Info: RoleDescriptor:gerente: 3 mini seconds publishing element
+Info: WorkProductDescriptor:cartao: 4 mini seconds publishing element
+Info: WorkProductDescriptor:colunas: 5 mini seconds publishing element
+Info: WorkProductDescriptor:quadro: 4 mini seconds publishing element
+Info: Task:resalizar_testes_unitrios: 15 mini seconds publishing element
+Info: TaskDescriptor:resalizar_testes_unitrios: 5 mini seconds publishing element
+Info: Task:implantao: 13 mini seconds publishing element
+Info: TaskDescriptor:implantao: 5 mini seconds publishing element
+Info: CapabilityPattern:Teste: 167 mini seconds publishing element
+Info: CapabilityPattern:Teste: 87 mini seconds publishing process specific layout data
+Info: Task:definir_casos_de_teste: 12 mini seconds publishing element
+Info: TaskDescriptor:definir_casos_de_teste: 5 mini seconds publishing element
+Info: Role:tester: 30 mini seconds publishing element
+Info: RoleDescriptor:tester: 5 mini seconds publishing element
+Info: RoleDescriptor:gerente: 4 mini seconds publishing element
+Info: WorkProductDescriptor:cartao: 3 mini seconds publishing element
+Info: WorkProductDescriptor:colunas: 4 mini seconds publishing element
+Info: WorkProductDescriptor:quadro: 3 mini seconds publishing element
+Info: Task:realizar_teste: 12 mini seconds publishing element
+Info: TaskDescriptor:realizar_teste: 3 mini seconds publishing element
+Info: DeliveryProcess:Processo: 104 mini seconds publishing element
+Info: DeliveryProcess:Processo: 521 mini seconds publishing process specific layout data
+Info: Iteration:Sprint: 104 mini seconds publishing element
+Info: CapabilityPattern:Gestão: 205 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 236 mini seconds publishing element
+Info: CapabilityPattern:Teste: 164 mini seconds publishing element
+Info: Discipline:gestao: 10 mini seconds publishing element
+Info: Discipline:codificacao: 5 mini seconds publishing element
+Info: Discipline:teste: 6 mini seconds publishing element
+Info: CustomCategory:kanban: 6 mini seconds publishing element
+Info: CustomCategory:papeis: 10 mini seconds publishing element
+Info: CustomCategory:tarefas: 6 mini seconds publishing element
+Info: CustomCategory:produtos_de_trabalho: 8 mini seconds publishing element
+Info: CustomCategory:disciplina: 6 mini seconds publishing element
+Info: : Publishing time: 0 minutes 7 seconds
